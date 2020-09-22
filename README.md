@@ -12,4 +12,4 @@ React JS Fundamentals Course 2020
 
 ## 9월 11일
 1. Dothome에 indexfile 수정하기
-2. readme.md 수정 후 githun에 push하기 
+2. readme.md 수정 후 github에 push하기
