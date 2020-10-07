@@ -2,6 +2,9 @@
 ## movie_app_2020
 React JS Fundamentals Course 2020
 
+## 9월 25일
+1. image 삽입하기
+2. key props 추가하기
 
 ## 9월 18일
 1. 컴포넌트가 무엇인지 알아보고, JSX를 학습.
