@@ -2,6 +2,13 @@
 ## movie_app_2020
 React JS Fundamentals Course 2020
 
+## 10월 7일
+
+1. prop-type 설치하기
+2. isRequired 살펴보기
+3. State 알아보기
+4. render() 함수 사용해보기
+
 ## 9월 25일
 1. image 삽입하기
 2. key props 추가하기
