@@ -2,6 +2,15 @@
 ## movie_app_2020
 React JS Fundamentals Course 2020
 
+## 10월 16일 
+
+1. 누르면 숫자 증감하는 버튼 만들기
+2. constructor() 함수 알아보기. 
+3. componentDidMount() 함수 알아보기. 
+4. componentWillUnmount() 함수 알아보기
+5. 영화 데이터 로딩 상태 표시해 주기.
+
+
 ## 10월 7일
 
 1. prop-type 설치하기
