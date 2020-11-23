@@ -2,6 +2,8 @@
 ## movie_app_2020
 React JS Fundamentals Course 2020
 
+## 11월 20일 
+
 ## 11월 13일 
 1. 시놉시스 180자로 제한하기
 2. 영화 앱 제목 살펴보고 바꾸기
