@@ -3,6 +3,12 @@
 React JS Fundamentals Course 2020
 
 ## 11월 20일 
+1. navigation 컴포넌트를 이용하여 영화 데이터 추가
+2. movie 컴포넌트에 link 추가
+3. detail 컴포넌트 추가
+4. route 컴포넌트 추가
+5. detail 컴포넌트 함수형에서 클래스형 컴포넌트로 변경하기
+6. push() 함수 사용하기
 
 ## 11월 13일 
 1. 시놉시스 180자로 제한하기
