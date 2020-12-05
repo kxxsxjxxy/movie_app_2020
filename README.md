@@ -2,6 +2,24 @@
 ## movie_app_2020
 React JS Fundamentals Course 2020
 
+## 12월 4일 
+
+- 기말평가
+
+## 12월 1일
+
+1. 애플리케이션 만들기 (props와 state를 사용)
+2. reactjs.org에서 state를 사용하여 입력한 텍스트, 할 일 목록 관리하기
+3. JSX 사용
+4. key 학습
+
+
+## 11월 27일 
+1. cdn 이용하기
+2. 시간 움직이는 타이머 예제 실습
+3. this.props 이용하기
+
+
 ## 11월 20일 
 1. navigation 컴포넌트를 이용하여 영화 데이터 추가
 2. movie 컴포넌트에 link 추가
